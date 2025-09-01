@@ -1,0 +1,14 @@
+Current Work
+--------------
+- Creating the learn with AR function
+	- Give all the 3d models thumbnails to Gemini with their names to decide which one is the best (the none answer means generate a 3d model, the future feature)
+
+
+Extras after finishing:
+- the History Page
+- Use th
+- allow more file types in the upload and convert them to Gemini-friendly file types
+- funcs docstring and params declaring
+
+Questions:
+1. Can only one or 2 in the team are specialized in programming and have deep knowledge in it while the others have a light knowledge
